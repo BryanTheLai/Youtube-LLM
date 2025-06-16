@@ -11,6 +11,10 @@ This application allows you to:
 - Analyze transcripts from YouTube videos
 - Get AI-generated insights and explanations about video content
 
+## Demo - Youtube links
+- [Youtube to XML - Turn videos and playlist into LLM friendly XML](https://youtu.be/nW0BN7dcU1U)
+- [Youtube LLM - Turn videos and playlist into interactive chats](https://youtu.be/qzdBK2pNnHs)
+
 ## Features
 
 - **YouTube Content Processing**: Extract metadata and transcripts from YouTube videos and playlists
