@@ -70,7 +70,7 @@ def annotate_pdf_as_images(gemini_client: GeminiClient, pdf_path: str, output_fo
             
             # Get Gemini annotation
             response = gemini_client.client.models.generate_content(
-                model="gemini-2.0-flash",
+                model="gemini-2.5-flash-lite",
                 contents=[
                     types.Part.from_bytes(data=img_bytes, mime_type="image/png"),
                     annotation_prompt
